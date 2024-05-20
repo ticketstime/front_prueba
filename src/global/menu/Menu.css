@@ -1,0 +1,26 @@
+.cont-menu{
+    width: 100%;
+   
+    background-color: rgb(85, 153, 153);
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+
+    width: 100%;
+    justify-content: center;
+}
+
+ul li{
+    cursor: pointer;
+    color:white;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
